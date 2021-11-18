@@ -1,7 +1,7 @@
 This Code contains the example for animation fill mode
 
 # Project Demo:
-Uploading animationFillMode.mp4…
+https://user-images.githubusercontent.com/43925842/142431270-8811dfd5-b2e1-49e0-a0e8-cd9a7e3d6a11.mp4
 
 # Animation-fill-mode 
 Lets you control what happens during delays before an animation starts actively playing and /or what happens after the animation's duration has ended!
