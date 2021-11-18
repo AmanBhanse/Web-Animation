@@ -1,0 +1,41 @@
+*{
+    background-color: grey;
+}
+
+
+.parent{
+    
+    display: grid;
+    grid-template-columns: 100%;
+    
+    justify-items: center;
+
+}
+
+@keyframes typing{
+    0%{
+        width:0px;
+    }
+    100%{
+        width:100%;
+    }
+}
+
+@keyframes blinking{
+    0% ,100%{
+        border-color : transparent;
+    }
+    50%{
+        border-color : Red;
+    }
+}
+
+.wrap{
+    font-size: 10rem;
+
+    animation: typing 1s steps(14),
+    blinking 0.5s step(1) infinite;
+
+}
+
+

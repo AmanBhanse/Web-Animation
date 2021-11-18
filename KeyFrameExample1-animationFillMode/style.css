@@ -1,0 +1,33 @@
+* {
+  background-color: grey;
+}
+
+@keyframes CarDrives {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(900px);
+  }
+}
+
+#car1 {
+  animation-name: CarDrives;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: backwards;
+}
+
+#car2 {
+  animation-name: CarDrives;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: forwards;
+}
+
+#car3 {
+  animation-name: CarDrives;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: both;
+}
