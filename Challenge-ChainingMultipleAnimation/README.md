@@ -1,5 +1,6 @@
 Code contains example of chaining (use of multiple animations)
 
 # Code Demo
-https://user-images.githubusercontent.com/43925842/142437755-e706e12e-d3a8-45b6-945b-a100d5c38903.mp4
+
+https://user-images.githubusercontent.com/43925842/142437945-63c0cd68-7576-4d1f-9743-c3151b0f0328.mp4
 
